@@ -13,7 +13,7 @@ def maxSum(a,size):
 
 
 
-a = [-2, -3, 4, -1, -2, 1, 5, -3] 
+a = [-5,-1,-8,-9] 
 print(maxSum(a,len(a)))
 
 
